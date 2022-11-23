@@ -73,3 +73,13 @@ footer nav{
   text-align: right;
   margin: auto;
 }
+
+footer nav a:visited, footer nav a:link, footer nav a:hover{
+  color: white;
+  text-decoration: none;
+  padding-right: 0 10px;
+}
+
+footer nav a:hover{
+  text-decoration: underline;
+}
