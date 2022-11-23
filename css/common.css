@@ -1,0 +1,39 @@
+*{
+  font-family: Helvetica, sans-serif;
+  font-size: 12pt;
+  line-height: 150%;
+}
+
+.fixed-width{
+  width: 1000px;
+  margin: auto;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+}
+
+header{
+  height: 100px;
+  display: flex;
+}
+
+header a, header img{
+  height: inherit;
+}
+
+header nav{
+  flex-grow: 1;
+  text-align: right;
+  margin: auto;
+}
+
+header nav a:visited, header nav a:link, header nav a:hover{
+  color: black;
+  font-weight: bold;
+}
+
+header nav a:hover{
+  text-decoration: underline;
+}
