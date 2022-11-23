@@ -32,7 +32,8 @@ header nav{
 header nav a:visited, header nav a:link, header nav a:hover{
   color: black;
   font-weight: bold;
-  text-decoration: none
+  text-decoration: none;
+  padding: 0 30px
 }
 
 header nav a:hover{
@@ -77,7 +78,7 @@ footer nav{
 footer nav a:visited, footer nav a:link, footer nav a:hover{
   color: white;
   text-decoration: none;
-  padding: 0 5px;
+  padding: 0 20px;
 }
 
 footer nav a:hover{
