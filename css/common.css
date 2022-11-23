@@ -15,7 +15,7 @@ body{
 }
 
 header{
-  height: 100px;
+  height: 80px;
   display: flex;
 }
 
@@ -32,8 +32,13 @@ header nav{
 header nav a:visited, header nav a:link, header nav a:hover{
   color: black;
   font-weight: bold;
+  text-decoration: none
 }
 
 header nav a:hover{
   text-decoration: underline;
 }
+
+
+
+footer
