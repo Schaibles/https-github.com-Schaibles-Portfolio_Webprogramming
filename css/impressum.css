@@ -16,5 +16,5 @@ span{
 }
 
 .impressum-block{
-  word-break: break-all;
+  line-break: normal;
 }
