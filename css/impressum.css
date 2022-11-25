@@ -4,17 +4,3 @@ h1{
   font-weight: bold;
 }
 
-h2{
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 12pt;
-  font-weight: bold;
-}
-
-
-span{
-  display: block;
-}
-
-.impressum-block{
-  line-break: normal;
-}
