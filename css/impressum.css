@@ -4,3 +4,21 @@ h1{
   font-weight: bold;
 }
 
+.impressum-block span{
+  display: block;
+}
+
+.impressum-block span h2{
+  font-size: 13pt;
+  font-weight: bold;
+}
+
+.link a{
+  color: black;
+  text-decoration-line: none;
+}
+
+.link a:hover{
+  color: blue;
+  text-decoration-line: underline;
+}
